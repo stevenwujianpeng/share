@@ -3,5 +3,7 @@
 # 目录
 
 - babel配置
+  - project 项目
+  - lib 基础库
 - rollup 构建打包
 
