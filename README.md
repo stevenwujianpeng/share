@@ -6,4 +6,8 @@
   - project 项目
   - lib 基础库
 - rollup 构建打包
+- node
+  - 命令行程序
+  - commander
+  - inquirer
 
