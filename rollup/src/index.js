@@ -9,6 +9,9 @@ export default {
   partition: () => {
     return _.partition();
   },
+  getPromise: () => {
+    return new Promise();
+  },
   add,
 }
 
